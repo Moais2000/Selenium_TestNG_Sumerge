@@ -43,7 +43,7 @@ public class First_Test {
 
         signup_obj.set_first_name("Moamen");
         signup_obj.set_last_name("Ashraf");
-        signup_obj.set_email("Mafifi@gmail.com");
+        signup_obj.set_email("Moamenafifi@gmail.com");
         signup_obj.set_pass("Moamen123456");
 
         signup_obj.click_submit_btn();
